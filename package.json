@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Andriy-Lesyk.github.io/parcel-project-group_2",
+  "homepage": "https://KnackeredMe.github.io/parcel-project-group_2v2",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /parcel-project-group_2/",
+    "predeploy": "npm run build -- --public-url /parcel-project-group_2v2/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/KnackeredMe/parcel-project-group_2v2.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Vadym Marko <marko.vadym@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
