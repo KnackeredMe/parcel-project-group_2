@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./../images/warranty/fire.svg":[["fire.5b9d70a3.svg","images/warranty/fire.svg"],"images/warranty/fire.svg"],"./../images/warranty/rect1.svg":[["rect1.2675c1a6.svg","images/warranty/rect1.svg"],"images/warranty/rect1.svg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./..\\Images\\Hero\\Fon\\fon_mob.jpg":[["fon_mob.a374fa89.jpg","Images/Hero/Fon/fon_mob.jpg"],"Images/Hero/Fon/fon_mob.jpg"],"./..\\Images\\Hero\\Fon\\fon_mob2x.jpg":[["fon_mob2x.6a45ca3f.jpg","Images/Hero/Fon/fon_mob2x.jpg"],"Images/Hero/Fon/fon_mob2x.jpg"],"./..\\Images\\Hero\\Fon\\fon_tab.jpg":[["fon_tab.bd3eb6f8.jpg","Images/Hero/Fon/fon_tab.jpg"],"Images/Hero/Fon/fon_tab.jpg"],"./..\\Images\\Hero\\Fon\\fon_tab2x.jpg":[["fon_tab2x.65fe4e5e.jpg","Images/Hero/Fon/fon_tab2x.jpg"],"Images/Hero/Fon/fon_tab2x.jpg"],"./..\\Images\\Hero\\Fon\\fon_desk.jpg":[["fon_desk.8bd510d2.jpg","Images/Hero/Fon/fon_desk.jpg"],"Images/Hero/Fon/fon_desk.jpg"],"./..\\Images\\Hero\\Fon\\fon_desk2x.jpg":[["fon_desk2x.873f2265.jpg","Images/Hero/Fon/fon_desk2x.jpg"],"Images/Hero/Fon/fon_desk2x.jpg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49227" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59868" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
