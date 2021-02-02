@@ -64,7 +64,7 @@
     text-transform: uppercase;
     color: #FFFFFF;
     background:var(--accent-color);
-    border: transparent;
+    border:2px solid transparent;
     transition: all 250ms var(--timing-fn);
     justify-content: center;
 }
